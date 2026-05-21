@@ -1,5 +1,6 @@
 # c-programming-task-3
 library management system
+
 program and output:
 
 <img width="1000" height="1600" alt="debdd188-7d57-4064-9ed5-d865bc85f8a9" src="https://github.com/user-attachments/assets/66c10a65-5e5a-4277-80db-978a3b7522ab" />
